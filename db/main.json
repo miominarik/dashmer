@@ -4,15 +4,15 @@
   },
   "resources": [
     {
-      "name": "Mirko",
-      "tag": "admin",
-      "desc": "sldjflkjskdljf",
+      "name": "Example 1",
+      "tag": "Administration",
+      "desc": "This is example site",
       "url": "https://google.com"
     },
     {
-      "name": "Tomáš3",
-      "tag": "panel",
-      "desc": "sldjflkjskdljf",
+      "name": "Example 2",
+      "tag": "AdminPanel",
+      "desc": "This is example 2 site",
       "url": "https://amazon.com"
     }
   ]
