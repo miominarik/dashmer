@@ -1,0 +1,19 @@
+{
+  "config": {
+    "color_palette" : "white"
+  },
+  "resources": [
+    {
+      "name": "Mirko",
+      "tag": "admin",
+      "desc": "sldjflkjskdljf",
+      "url": "https://google.com"
+    },
+    {
+      "name": "Tomáš3",
+      "tag": "panel",
+      "desc": "sldjflkjskdljf",
+      "url": "https://amazon.com"
+    }
+  ]
+}
